@@ -1,0 +1,35 @@
+﻿  Source.cpp
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(120): warning C4101: 'e': unreferenced local variable
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(148): warning C4101: 'e': unreferenced local variable
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(177): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(178): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(179): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(180): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(181): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(182): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(183): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(184): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(188): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(192): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(193): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(194): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(195): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(196): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(197): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(198): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(199): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(203): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(210): warning C4101: 'e': unreferenced local variable
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(240): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(241): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(242): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(243): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(244): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(245): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(246): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(247): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(251): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(259): warning C4101: 'e': unreferenced local variable
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(288): warning C4101: 'e': unreferenced local variable
+c:\users\ivan\source\repos\oa-preradamisijecleaning\oa-preradamisijecleaning\source.cpp(738): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  OA-PreradaMisijeCleaning.vcxproj -> C:\Users\Ivan\source\repos\OA-PreradaMisijeCleaning\Debug\OA-PreradaMisijeCleaning.exe
